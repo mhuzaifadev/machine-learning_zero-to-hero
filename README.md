@@ -29,9 +29,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project was originally initiated under the influence of Google Developer Student Clubs and Microsoft Learn Student Ambassadors - SSUET campus to teach more and more students about technology. Over the internet, there are great resources to learn Machine Learning, but what it lacks is the proper flow in their road map, which triggers the students to give up in the half way mostly.
+This project was originally initiated under the influence of Google Developer Student Clubs and Microsoft Learn Student Ambassadors - SSUET campus to teach more and more students about technology. Over the internet, there are great resources to learn Machine Learning, but what it lacks is the proper flow in their road map, which triggers the students to give up halfway mostly.
 
-This project is created to let student have a quickest and easiest handsa on journey with Machine Learning using Python3. However, currently notebook doesn't possess any Mathematical material, but we surely be digging on it with other experienced ML writers to help through out that process.
+This project is created to let students have the quickest and easiest hands-on journey with Machine Learning using Python3. However, currently, the notebook doesn't possess any Mathematical material, but we surely are digging into it with other experienced ML writers to help throughout that process.
 
 The end goal of this repository is just 3 hours per day and only 30 days, and you will be best with Machine Learning, you may have never imagined.
 
@@ -49,40 +49,40 @@ The entire project (course) is focused on Python 3. (We recommend Python 3.6 to 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Install [Python 3.8X](https://www.python.org/downloads/source/) in your local machine. Once done. Open terminal and run 
+Install [Python 3.8X](https://www.python.org/downloads/source/) on your local machine. Once done. Open the terminal and run 
  
   ```cd
   pip install jupyternotebook
   ```
-Then reopen your termial in your desire directory, and run
+Then reopen your terminal in your desired directory, and run
 
   ```cd
   jupyter notebook
   ```
-In that way, jupyter notebook will initiate its kernal and live on the local host.
+In that way, jupyter notebook will initiate its kernel and live on the local host.
 
-The other possible and easiest solution is to sign into your Google Account and hit https://colab.research.google.com . This will open Colab, an online Jupyter Notebook workspace by Google. All environments are already built in, you can directly start working on Colab.
+The other possible and easiest solution is to sign into your Google Account and hit https://colab.research.google.com . This will open Colab, an online Jupyter Notebook workspace by Google. All environments are already built-in, you can directly start working on Colab.
 
 
 ### Prerequisites
 
-Your system must meet the requirement of Windows 7 or equivalent with minimum of 2 to 3GB of memory available.
+Your system must meet the requirement of Windows 7 or equivalent with a minimum of 2 to 3GB of memory available.
 
-Another important prerequisite is to learn Probability and Statistics. If your not currently good at it or doen't even know a bit about it. So there's absolutely no need to be worry about. Head over to [Statistics - Udacity](https://www.udacity.com/course/statistics--st095) Free Course, it will take you just 10 days to get best Probability and Statistics. But believe me without it, learning Machine Learning is simply like learning how to fly a plane without having a plane.
+Another important prerequisite is to learn Probability and Statistics. If you are not currently good at it or don't even know a bit about it. So there's absolutely no need to worry about it. Head over to [Statistics - Udacity](https://www.udacity.com/course/statistics--st095) It Free Course, it will take you just 10 days to get the best Probability and Statistics. But believe me, without it, learning Machine Learning is simply like learning how to fly a plane without having a plane.
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
 See the [open issues](https://github.com/mhuzaifadev/mlzero_to_hero/issues) for a list of proposed features (and known issues).
-The roadmap of this project is comprising over <b>FOUR</b> sections.
+The roadmap of this project is comprising over <b>FIVE</b> sections.
 
 * <b>Data Preprocessing & Visualisation</b><br>
-      Data preprocessing is a data mining technique which is used to transform the raw data in a useful and efficient format. Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data.<br>
+      Data preprocessing is a data mining technique that is used to transform the raw data into a useful and efficient format. Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data.<br>
 * <b>Supervised Learning using Sklearn</b> <br>
       Supervised learning (SL) is the machine learning task of learning a function that maps an input to an output based on example input-output pairs. It infers a function from labeled training data consisting of a set of training examples.
 * <b>Unsupervised Learning using Sklearn</b> <br>
-      Unsupervised Learning is a machine learning technique in which the users do not need to supervise the model. Instead, it allows the model to work on its own to discover patterns and information that was previously undetected. It mainly deals with the unlabelled data. <br>
+      Unsupervised Learning is a machine learning technique in which the users do not need to supervise the model. Instead, it allows the model to work on its own to discover patterns and information that were previously undetected. It mainly deals with unlabelled data. <br>
 * <b>Introduction to Neural Networks using Numpy</b><br>
       A neural network is a series of algorithms that endeavors to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates. In this sense, neural networks refer to systems of neurons, either organic or artificial in nature.<br>
 * <b>A Familiarisation with Tensorflow, OpenCV, etc.</b><br>
@@ -92,7 +92,7 @@ The roadmap of this project is comprising over <b>FOUR</b> sections.
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -111,7 +111,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <p align="center">
 <a href="https://www.mhuzaifa.com"><img src="https://img.shields.io/badge/-mhuzaifa.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/mhuzaifadev"><img src="https://img.shields.io/badge/-M%20Huzaifa-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:mhuzaifadev@gmail.com"><img src="https://img.shields.io/badge/-mhuzaifadev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:mhuzaifadev@gmail.com"><img src="https://img.shields.io/badge/-mhuzaifadev@gmail.com-D14836?style=flail&logoColor=white"/></a>
 <a href="https://facebook.com/mhuzaifadev"><img src="https://img.shields.io/badge/-@mhuzaifadev-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
   
